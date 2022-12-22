@@ -1,10 +1,20 @@
 body {
     background: black;
     color: white;
+    text-align: center;
+}
+
+header{
+    text-align: center;
 }
 
 img{
     max-width: 100%;
+
+}
+
+.image_ronaldo {
+    border: 5px ;
 }
 
 h1 {
@@ -14,6 +24,12 @@ h1 {
 li{
     max-width: 375px;
     font-family: Bahnschrift;
+   /* list-style-position: inside;*/
+
+}
+
+ul{
+    text-align: center;
 }
 #color{
     color: orange;
@@ -24,5 +40,10 @@ li{
     background-size: cover;
 
 }
+
+a:hover {
+    text-decoration: deeppink;
+}
+
 
 
