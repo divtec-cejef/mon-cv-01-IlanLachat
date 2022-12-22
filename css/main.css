@@ -3,6 +3,26 @@ body {
     color: white;
 }
 
+img{
+    max-width: 100%;
+}
+
 h1 {
     color: yellow;
 }
+
+li{
+    max-width: 375px;
+    font-family: Bahnschrift;
+}
+#color{
+    color: orange;
+}
+
+.background{
+    background-image: url("/images/image_ronaldo_célération (1).jpg");
+    background-size: cover;
+
+}
+
+
