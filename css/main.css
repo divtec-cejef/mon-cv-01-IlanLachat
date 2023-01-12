@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-
+    font-weight: normal;
     color: white;
     text-align: center;
     background: black;
@@ -12,12 +12,12 @@ header{
 }
 
 img{
-    max-width: 20%;
+    max-width: 15%;
     border-color: red;
 }
 
 h1 {
-    color: #A800F0;
+    color: #ff7500;
     font-size: 50px;
     font-weight: 700;
 }
@@ -29,7 +29,7 @@ h2 {
 
 li{
     list-style-position: inside;
-    color: #FC80DB;
+
 }
 
 ul{
@@ -39,19 +39,21 @@ ul{
 
 
 .background{
-    background-image: url("/images/image_ronaldo_célération (1).jpg");
+    background-image: url("/images/decorManga.png");
     background-size: cover;
     background-attachment: fixed;
-
 }
 
 a:hover {
-    text-decoration: deeppink;
+    text-decoration: #ff0d0d;
 }
 
-.titre {
-
+.lien {
+    color: #ff01f9;
 }
+
+a
+
 
 
 
