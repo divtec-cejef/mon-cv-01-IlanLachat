@@ -39,7 +39,6 @@ ul {
 
 }
 
-
 .background {
     background-image: url("/images/decorManga.png");
     background-size: cover;
@@ -52,10 +51,6 @@ a:hover {
 
 .lien {
     color: #ff01f9;
-}
-
-.image_moi {
-
 }
 
 .texte_coloré {
