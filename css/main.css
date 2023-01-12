@@ -1,48 +1,56 @@
 body {
-    background: black;
+    font-family: "Roboto", sans-serif;
+
     color: white;
     text-align: center;
+    background: black;
 }
 
 header{
     text-align: center;
+
 }
 
 img{
-    max-width: 100%;
-
-}
-
-.image_ronaldo {
-    border: 5px ;
+    max-width: 20%;
+    border-color: red;
 }
 
 h1 {
-    color: yellow;
+    color: #A800F0;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+h2 {
+    color: #BC08EE;
+
 }
 
 li{
-    max-width: 375px;
-    font-family: Bahnschrift;
-   /* list-style-position: inside;*/
-
+    list-style-position: inside;
+    color: #FC80DB;
 }
 
 ul{
     text-align: center;
+
 }
-#color{
-    color: orange;
-}
+
 
 .background{
     background-image: url("/images/image_ronaldo_célération (1).jpg");
     background-size: cover;
+    background-attachment: fixed;
 
 }
 
 a:hover {
     text-decoration: deeppink;
+}
+
+.titre {
+
 }
 
 
