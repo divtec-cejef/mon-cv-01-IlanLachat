@@ -6,14 +6,16 @@ body {
     background: black;
 }
 
-header{
+header {
     text-align: center;
 
 }
 
-img{
+img {
     max-width: 15%;
-    border-color: red;
+    border: 1px #BC08EE solid;
+    box-shadow: 30px 20px 40px rgb(0, 0, 0);
+
 }
 
 h1 {
@@ -27,18 +29,18 @@ h2 {
 
 }
 
-li{
+li {
     list-style-position: inside;
 
 }
 
-ul{
+ul {
     text-align: center;
 
 }
 
 
-.background{
+.background {
     background-image: url("/images/decorManga.png");
     background-size: cover;
     background-attachment: fixed;
@@ -52,8 +54,13 @@ a:hover {
     color: #ff01f9;
 }
 
-a
+.image_moi {
 
+}
+
+.texte_coloré {
+    color: #D1BCE3;
+}
 
 
 
